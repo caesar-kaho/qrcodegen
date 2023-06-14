@@ -11,4 +11,6 @@ Javascript
 * public - css檔案放置處
 * node_modules - 模組放置處
 ## 第三方服務
-https://goqr.me/api/
+[QR Code API][1]
+
+  [1]: https://goqr.me/api/        "QRCodeAPI"
