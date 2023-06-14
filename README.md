@@ -1,6 +1,9 @@
 QR Code 產生器
 ===
 NTUS Linebot的LIFF小工具
+
+![專案封面圖](https://imgur.com/B2oQESZ.png)
+
 ## 專案技術
 * Node.js
 * Bootstrap
